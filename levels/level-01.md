@@ -29,7 +29,7 @@ Using `./-` explicitly specifies the file's path relative to the current directo
 
 - How command-line tools interpret arguments
 - Why filenames beginning with `-` can cause unexpected behavior
-- How `./` can be used to explicitly reference a file in the current directory
+- How `./` can be used to explicitly reference a file in the current directory.
 
 ---
 
