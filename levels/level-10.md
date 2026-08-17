@@ -1,4 +1,3 @@
-````md
 # Bandit Level 10 → Level 11
 
 ## Level Objective
@@ -42,5 +41,3 @@ base64 -d data.txt
 
 **[← Previous Level](./level-09.md) | [Next Level →](./level-11.md)**
 
-```
-```
