@@ -1,4 +1,3 @@
-````md
 # Bandit Level 09 → Level 10
 
 ## Level Objective
@@ -50,5 +49,4 @@ Therefore, `^=` matches lines that begin with `=`.
 
 **[← Previous Level](./level-08.md) | [Next Level →](./level-10.md)**
 
-```
-```
+
