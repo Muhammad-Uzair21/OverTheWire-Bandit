@@ -1,4 +1,4 @@
-````md
+
 # Bandit Level 07 → Level 08
 
 ## Level Objective
@@ -43,5 +43,4 @@ searches `data.txt` for the word `millionth`.
 
 **[← Previous Level](./level-06.md) | [Next Level →](./level-08.md)**
 
-```
-```
+
