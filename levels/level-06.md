@@ -1,4 +1,3 @@
-````md
 # Bandit Level 06 → Level 07
 
 ## Level Objective
@@ -67,6 +66,3 @@ File descriptor `2` represents standard error (`stderr`). Redirecting it to `/de
 ---
 
 **[← Previous Level](./level-05.md) | [Next Level →](./level-07.md)**
-
-```
-```
