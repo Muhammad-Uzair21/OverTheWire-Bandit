@@ -1,4 +1,4 @@
-````md
+
 # Bandit Level 08 → Level 09
 
 ## Level Objective
@@ -50,5 +50,3 @@ The `-u` option tells `uniq` to display only lines that occur exactly once.
 
 **[← Previous Level](./level-07.md) | [Next Level →](./level-09.md)**
 
-```
-```
