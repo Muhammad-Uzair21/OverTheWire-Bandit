@@ -56,16 +56,16 @@ Each level has its own writeup containing:
 | 08 → 09 | [Level 08](./levels/level-08.md) |
 | 09 → 10 | [Level 09](./levels/level-09.md) |
 | 10 → 11 | [Level 10](./levels/level-10.md) |
-| 11 → 12 | [Level 10](./levels/level-11.md) |
-| 12 → 13 | [Level 10](./levels/level-12.md) |
-| 13 → 14 | [Level 10](./levels/level-13.md) |
-| 14 → 15 | [Level 10](./levels/level-14.md) |
-| 15 → 16 | [Level 10](./levels/level-15.md) |
-| 16 → 17 | [Level 10](./levels/level-16.md) |
-| 17 → 18 | [Level 10](./levels/level-17.md) |
-| 18 → 19 | [Level 10](./levels/level-18.md) |
-| 19 → 20 | [Level 10](./levels/level-19.md) |
-| 20 → 21 | [Level 10](./levels/level-20.md) |
+| 11 → 12 | [Level 11](./levels/level-11.md) |
+| 12 → 13 | [Level 12](./levels/level-12.md) |
+| 13 → 14 | [Level 13](./levels/level-13.md) |
+| 14 → 15 | [Level 14](./levels/level-14.md) |
+| 15 → 16 | [Level 15](./levels/level-15.md) |
+| 16 → 17 | [Level 16](./levels/level-16.md) |
+| 17 → 18 | [Level 17](./levels/level-17.md) |
+| 18 → 19 | [Level 18](./levels/level-18.md) |
+| 19 → 20 | [Level 19](./levels/level-19.md) |
+| 20 → 21 | [Level 20](./levels/level-20.md) |
 
 
 
