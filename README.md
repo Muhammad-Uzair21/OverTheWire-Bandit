@@ -39,6 +39,7 @@ Each level has its own writeup containing:
 |--------|--------|
 | Level 00 → 10 | 🟢 Completed |
 | Level 11 → 20 | 🟢 Completed |
+| Level 21 → 30 | ⬜ In Progress |
 
 ## Levels
 
