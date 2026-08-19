@@ -67,8 +67,6 @@ Each level has its own writeup containing:
 | 19 → 20 | [Level 19](./levels/level-19.md) |
 | 20 → 21 | [Level 20](./levels/level-20.md) |
 
-
-
 More levels will be added as I progress.
 
 ## Topics & Skills
