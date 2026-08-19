@@ -65,6 +65,8 @@ Each level has its own writeup containing:
 | 17 → 18 | [Level 10](./levels/level-17.md) |
 | 18 → 19 | [Level 10](./levels/level-18.md) |
 | 19 → 20 | [Level 10](./levels/level-19.md) |
+| 20 → 21 | [Level 10](./levels/level-20.md) |
+
 
 
 More levels will be added as I progress.
